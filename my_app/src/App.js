@@ -1,10 +1,10 @@
 import React from 'react';
 
- const App=()=>{
-  return (
-    <div style={{color:"red", flex:"center" , width:50}}>
-      <h5>Testing Demo By me </h5>
+const App=()=>{
+  return(
+    <div>
+      <h1 style={{color:'red' , fontFamily:'monospace'}}>Hello World</h1>
     </div>
   )
 }
-export default App ;
+export default App
