@@ -5,7 +5,7 @@ const App=()=>{
     <div>
       <h1 style={{color:'red' , fontFamily:'monospace'}}>Hello World</h1>
       <h1 style={{color:'red' , fontFamily:'monospace'}}>Hello World</h1>
-      <h1 style={{color:'red' , fontFamily:'monospace'}}>Hello World</h1>
+      
     </div>
   )
 }
