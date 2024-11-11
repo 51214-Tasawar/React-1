@@ -5,6 +5,7 @@ const App=()=>{
     <div>
       <h1 style={{color:'red' , fontFamily:'monospace'}}>Hello World</h1>
       <h4 >My Testing Demo For React Js </h4>
+      <h4 >My Testing Demo For React Native </h4>
     </div>
   )
 }
